@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tongtz/tongtz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am Tong Zhou. I always have a great passion for integrating business insights and technical skills to solve the real world problems. With that passion, I conducted several internships in high-tech and consulting companies. My internship in high-tech companies including Tencent and JD.com greatly improved my technical proficiency in data analytics, machine learning and data visualization. My other internships in Deloitte, GF Securities effectively enhanced my skills of transforming the data analytical results into designed demonstration. After all those explorations, I have decided to dive deep into the data science industry, and  derive insights from the chaos of big data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+Duke University (Expected Dec 2022)
+* Master of Engineering Management - Data Analytics & Machine Learning - GPA:4.0/4.0
+* Relevant Courses: Modeling Process & Algorithms, Sourcing Data for Analytics (Python), Deep Learning, Cloud Computing
 
-### Markdown
+The Chinese University of Hong Kong, Shenzhen (CUHK)                                                    	  
+* Bachelor of Business Administration - Economics - GPA: 3.5/4.0       
+* Relevant Courses: Data Analytics (Mathematical Statistics & Machine Learning), IT in Business Applications (SQL), Computer Science (Python), Big Data Visualization, Digital Marketing
+* Honors: Outstanding Teaching Assistant, Dean’s List Honor for Academic Performance (10%)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tongtz/tongtz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Key Projects
