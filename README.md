@@ -13,3 +13,7 @@ The Chinese University of Hong Kong, Shenzhen (CUHK)
 * Honors: Outstanding Teaching Assistant, Dean’s List Honor for Academic Performance (10%)
 
 ## Key Projects
+* Deep Learning - Image Recognition: https://github.com/tongtz/aipi540_cv
+* Data Cleaning & Data Visualization: https://github.com/tongtz/employment-trend
+* Machine Learning Projects & Codes: https://github.com/tongtz/MachineLearning
+* Deep Learning - Imange Transformation (In Progress): https://github.com/tongtz/photo2avatar
