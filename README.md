@@ -13,10 +13,10 @@ The Chinese University of Hong Kong, Shenzhen (CUHK)
 * Honors: Outstanding Teaching Assistant, Dean’s List Honor for Academic Performance (10%)
 
 ## Key Projects
-* Computer Vision - [Image Traslation from photo to avatar](https://github.com/tongtz/photo2avatar)
-* NLP - [Question Answering System using Reviews](https://github.com/tongtz/QuestionAnswering.git)
+* Computer Vision - [Image Traslation from photo to avatar](https://github.com/tongtz/photo2avatar/blob/main/presentation.pdf)
+* NLP - [Question Answering System using Reviews](https://github.com/tongtz/QuestionAnswering/blob/main/Presentation.pdf)
+* Data Cleaning & Data Visualization - [Analysis of Engineer-related Employment Trend in United States](https://github.com/tongtz/employment-trend/blob/main/Analysis%20of%20Engineer-related%20Employment%20Trend%20in%20United%20States%20.pdf)
 * Recommendation Sys - [Recommending Profiles for Dating Apps](https://github.com/bkenan/dating_recsys.git)
 * Computer Vision - [Image recognition of Lesions](https://github.com/tongtz/aipi540_cv)
 * NLP - [Translate Audio to SQL queries](https://github.com/1999Lyd/test-to-sql-model-implementation)
-* Data Cleaning & Data Visualization - [Analysis of Engineer-related Employment Trend in United States](https://github.com/tongtz/employment-trend)
 * Machine Learning - [Projects & Codes](https://github.com/tongtz/MachineLearning)
