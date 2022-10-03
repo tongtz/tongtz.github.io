@@ -8,7 +8,7 @@ Duke University (Expected Dec 2022)
 * Relevant Courses: Modeling Process & Algorithms, Sourcing Data for Analytics (Python), Deep Learning, Cloud Computing
 
 The Chinese University of Hong Kong, Shenzhen (CUHK)                                                    	  
-* Bachelor of Business Administration - Economics - GPA: 3.5/4.0       
+* Bachelor of Business Administration - Economics - Dean’s List Honor       
 * Relevant Courses: Data Analytics (Mathematical Statistics & Machine Learning), IT in Business Applications (SQL), Computer Science (Python), Big Data Visualization, Digital Marketing
 * Honors: Outstanding Teaching Assistant, Dean’s List Honor for Academic Performance (10%)
 
