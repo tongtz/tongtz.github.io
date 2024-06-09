@@ -3,6 +3,12 @@
 I am Lexi. I always have a great passion for integrating business insights and technical skills to solve the real world problems. With that passion, I conducted several internships in high-tech and consulting companies. My internship in high-tech companies including Tencent and JD.com greatly improved my technical proficiency in data analytics, machine learning and data visualization. My other internships in Deloitte, GF Securities effectively enhanced my skills of transforming the data analytical results into designed demonstration. After all those explorations, I have decided to dive deep into the data science industry, and derive insights from the chaos of big data.
 
 ## YouTube Channel
+Dive into the exciting world of AI with OpenAI's cutting-edge models: Sora, CLIP, DALL-E 2, and DALL-E 3. We'll explore how these advanced technologies are revolutionizing artificial intelligence by understanding and generating images, text, and more. 
+ Papers Explained:
+- CLIP: Learning Transferable Visual Models From Natural Language Supervision (https://arxiv.org/pdf/2103.00020)
+- DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents (https://cdn.openai.com/papers/dall-e-...) 
+- DALL-E 3: Improving Image Generation with Better Captions (https://cdn.openai.com/papers/dall-e-...)
+- CoCa: Contrastive Captioners are Image-Text Foundation Models (https://arxiv.org/pdf/2205.01917)
 [!['Connecting OpenAI's CLIP, DALLE-2, DALLE-3 with Sora (Papers Explained)'](https://img.youtube.com/vi/l9Dg_IQS3W8/0.jpg)](https://www.youtube.com/watch?v=l9Dg_IQS3W8)
 
 ## Key Projects
