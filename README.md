@@ -9,8 +9,8 @@ Dive into the exciting world of AI with OpenAI's cutting-edge models: Sora, CLIP
 
 Papers Explained:
 - CLIP: Learning Transferable Visual Models From Natural Language Supervision (https://arxiv.org/pdf/2103.00020)
-- DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents (https://cdn.openai.com/papers/dall-e-...) 
-- DALL-E 3: Improving Image Generation with Better Captions (https://cdn.openai.com/papers/dall-e-...)
+- DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents (https://cdn.openai.com/papers/dall-e-2) 
+- DALL-E 3: Improving Image Generation with Better Captions (https://cdn.openai.com/papers/dall-e-3)
 - CoCa: Contrastive Captioners are Image-Text Foundation Models (https://arxiv.org/pdf/2205.01917)
 
 ## Key Projects
