@@ -3,7 +3,7 @@
 I am Tong Zhou (Lexi). I always have a great passion for integrating business insights and technical skills to solve the real world problems. With that passion, I conducted several internships in high-tech and consulting companies. My internship in high-tech companies including Tencent and JD.com greatly improved my technical proficiency in data analytics, machine learning and data visualization. My other internships in Deloitte, GF Securities effectively enhanced my skills of transforming the data analytical results into designed demonstration. After all those explorations, I have decided to dive deep into the data science industry, and  derive insights from the chaos of big data.
 
 ## Youtube Channel
-[!['Connecting OpenAI's CLIP, DALLE-2, DALLE-3 with Sora (Papers Explained)'](//img.youtube.com/vi/PLvYscrGbyZ7vM_8Ie8ZmWwZ9QG4GhAZIV/0.jpg)](https://www.youtube.com/watch?v=l9Dg_IQS3W8&list=PLvYscrGbyZ7vM_8Ie8ZmWwZ9QG4GhAZIV "Connecting OpenAI's CLIP, DALLE-2, DALLE-3 with Sora (Papers Explained)")
+[!['Connecting OpenAI's CLIP, DALLE-2, DALLE-3 with Sora (Papers Explained)'](//img.youtube.com/vi/l9Dg_IQS3W8/0.jpg)](//www.youtube.com/watch?v=l9Dg_IQS3W8 "Connecting OpenAI's CLIP, DALLE-2, DALLE-3 with Sora (Papers Explained)")
 
 ## Key Projects
 * Computer Vision - [Image Traslation from photo to avatar](https://github.com/tongtz/photo2avatar/blob/main/presentation.pdf)
