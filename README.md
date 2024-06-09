@@ -6,7 +6,8 @@ I am Lexi. I always have a great passion for integrating business insights and t
 [!['Connecting OpenAI's CLIP, DALLE-2, DALLE-3 with Sora (Papers Explained)'](https://img.youtube.com/vi/l9Dg_IQS3W8/0.jpg)](https://www.youtube.com/watch?v=l9Dg_IQS3W8)
 
 Dive into the exciting world of AI with OpenAI's cutting-edge models: Sora, CLIP, DALL-E 2, and DALL-E 3. We'll explore how these advanced technologies are revolutionizing artificial intelligence by understanding and generating images, text, and more. 
- Papers Explained:
+
+Papers Explained:
 - CLIP: Learning Transferable Visual Models From Natural Language Supervision (https://arxiv.org/pdf/2103.00020)
 - DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents (https://cdn.openai.com/papers/dall-e-...) 
 - DALL-E 3: Improving Image Generation with Better Captions (https://cdn.openai.com/papers/dall-e-...)
