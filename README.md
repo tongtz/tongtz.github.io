@@ -22,7 +22,7 @@ Dive into the exciting world of AI with OpenAI's cutting-edge models: Sora, CLIP
 * Machine Learning - [Projects & Codes](https://github.com/tongtz/MachineLearning)
 
 ## Education
-Duke University (Dec 2022)
+Duke University
 * Master of Engineering Management - Data Analytics & Machine Learning - GPA:4.0/4.0
 * Relevant Courses: Modeling Process & Algorithms, Sourcing Data for Analytics (Python), Deep Learning, Cloud Computing
 
