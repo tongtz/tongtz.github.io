@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-I am Lexi. I always have a great passion for integrating business insights and technical skills to solve the real world problems. With that passion, I conducted several internships in high-tech and consulting companies. My internship in high-tech companies including Tencent and JD.com greatly improved my technical proficiency in data analytics, machine learning and data visualization. My other internships in Deloitte, GF Securities effectively enhanced my skills of transforming the data analytical results into designed demonstration. After all those explorations, I have decided to dive deep into the data science industry, and derive insights from the chaos of big data.
+I am Lexi, a data scientist with a strong background in deep learning, machine learning, and statistical analysis, combining technical expertise with cross-functional collaboration to drive data-informed decisions. With experience across healthcare, consulting, and e-commerce industries, I bring a strategic and analytical mindset to solving complex problems and deploying scalable solutions. I hold a Master’s degree in Engineering Management with a focus on data analytics and machine learning, and I’m skilled in Python, SQL, PyTorch, TensorFlow, and cloud platforms. I’m passionate about building impactful, data-driven products that deliver measurable business value.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,git,mysql,docker,bitbucket,aws,gcp)](https://skillicons.dev)
