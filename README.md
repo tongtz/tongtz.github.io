@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Pages
 
-I am Lexi, a data scientist with a strong background in deep learning, machine learning, and statistical analysis, combining technical expertise with cross-functional collaboration to drive data-informed decisions. With experience across healthcare, consulting, and e-commerce industries, I bring a strategic and analytical mindset to solving complex problems and deploying scalable solutions. I hold a Master’s degree in Engineering Management with a focus on data analytics and machine learning, and I’m skilled in Python, SQL, PyTorch, TensorFlow, and cloud platforms. I’m passionate about building impactful, data-driven products that deliver measurable business value.
+I am Lexi, a research engineer/data scientist with a strong background in deep learning, machine learning, and statistical analysis, combining technical expertise with cross-functional collaboration to drive data-informed decisions. With experience across healthcare, consulting, and e-commerce industries, I bring a strategic and analytical mindset to solving complex problems and deploying scalable solutions. I hold a Master’s degree in Engineering Management with a focus on data analytics and machine learning, and I’m skilled in Python, SQL, PyTorch, TensorFlow, and cloud platforms. I’m passionate about building impactful, data-driven products that deliver measurable business value.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,git,mysql,docker,bitbucket,aws,gcp)](https://skillicons.dev)
