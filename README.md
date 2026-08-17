@@ -30,7 +30,7 @@ Duke University
 * Master of Engineering Management - Data Analytics & Machine Learning - GPA:4.0/4.0
 * Relevant Courses: Modeling Process & Algorithms, Sourcing Data for Analytics (Python), Deep Learning, Cloud Computing
 
-The Chinese University of Hong Kong, Shenzhen (CUHK)                                                    	  
+The Chinese University of Hong Kong (CUHK)                                                    	  
 * Bachelor of Business Administration - Economics - Dean’s List Honor       
 * Relevant Courses: Data Analytics (Mathematical Statistics & Machine Learning), IT in Business Applications (SQL), Computer Science (Python), Big Data Visualization, Digital Marketing
 * Honors: Outstanding Teaching Assistant, Dean’s List Honor for Academic Performance (10%)
