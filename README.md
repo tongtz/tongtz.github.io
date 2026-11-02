@@ -1,6 +1,4 @@
-# Lexi (Tong) Zhou
-
-**Research Engineer · Data Scientist · Machine Learning**
+## 👋 About Me
 
 I'm a research engineer and data scientist working in deep learning, machine learning and statistical analysis. I've worked in healthcare, consulting and e-commerce, and I like building data-driven products with measurable impact: taking a model from research to a scalable deployment, and working with cross-functional teams to turn analysis into decisions.
 
